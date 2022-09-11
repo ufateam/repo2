@@ -1,6 +1,8 @@
 # test Wut repo2 theme
 
 
+![This is an image](/img/test.jpg)
+
 [UFABET](https://ufabet.cam/)
 UFABET เว็บตรง
 เดิมพันกีฬา คาสิโนออนไลน์
